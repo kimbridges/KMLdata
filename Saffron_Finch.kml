@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Saffron Finch</name>
+    <Placemark>
+      <name>A saffron finch in the lawn near dusk.</name>
+      <Point>
+        <coordinates>-157.86307,21.29274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A young saffron finch.</name>
+      <Point>
+        <coordinates>-157.86307,21.29274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A posed saffron finch.</name>
+      <Point>
+        <coordinates>-157.86516,21.29472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A curious saffron finch.</name>
+      <Point>
+        <coordinates>-157.86499,21.29352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A saffron finch looking for seeds.</name>
+      <Point>
+        <coordinates>-157.86318,21.2925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A saffron finch in the lawn.</name>
+      <Point>
+        <coordinates>-157.86318,21.2925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A young (or female?) saffron finch.</name>
+      <Point>
+        <coordinates>-157.86318,21.2925,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
